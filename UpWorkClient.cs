@@ -11,7 +11,7 @@ using TinyOAuth1;
 
 namespace UpWork.NET
 {
-    public class UpWorkClient
+    public class UpworkClient
     {
         public ApiCredentials ApiCredentials { get; set; }
         private const string BaseUrl = "https://www.upwork.com";
@@ -41,7 +41,7 @@ namespace UpWork.NET
 
             // Get the request token and request token secret
             tokenResponse.RequestToken = await tinyOAuth.GetRequestTokenAsync();
-            tokenResponse.AuthorizationUrl = tinyOAuth.GetAuthorizationUrl(tokenResponse.RequestToken.RequestToken);
+            tokenResponse.AuthorizationUrl = tinyOAuth.GetAuthorizationUrl(tokenResponse.RequestToken.RequestToken + this.GenerateCallback());
 
             return tokenResponse;
         }
@@ -70,6 +70,11 @@ namespace UpWork.NET
             return await tinyOAuth.GetAccessTokenAsync(requestToken, requestTokenSecret, verificationCode);
         }
 
+        public string GenerateCallback()
+        {
+            return $"&oauth_callback={this.ApiCredentials.CallbackUrl}";
+        }
+        
         //public void ExampleRequest()
         //{
         //    var authHead = OAuthRequest.ForProtectedResource("GET", ApiCredentials.ConsumerKey, ApiCredentials.ConsumerSecret,
