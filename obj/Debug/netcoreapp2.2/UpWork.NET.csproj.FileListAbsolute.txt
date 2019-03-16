@@ -1,18 +1,12 @@
-C:\Users\Blake\source\repos\MMS.Api\UpWork.NET\bin\Debug\netcoreapp2.2\UpWork.NET.deps.json
-C:\Users\Blake\source\repos\MMS.Api\UpWork.NET\bin\Debug\netcoreapp2.2\UpWork.NET.dll
-C:\Users\Blake\source\repos\MMS.Api\UpWork.NET\bin\Debug\netcoreapp2.2\UpWork.NET.pdb
-C:\Users\Blake\source\repos\MMS.Api\UpWork.NET\obj\Debug\netcoreapp2.2\UpWork.NET.csprojAssemblyReference.cache
-C:\Users\Blake\source\repos\MMS.Api\UpWork.NET\obj\Debug\netcoreapp2.2\UpWork.NET.csproj.CoreCompileInputs.cache
-C:\Users\Blake\source\repos\MMS.Api\UpWork.NET\obj\Debug\netcoreapp2.2\UpWork.NET.AssemblyInfoInputs.cache
-C:\Users\Blake\source\repos\MMS.Api\UpWork.NET\obj\Debug\netcoreapp2.2\UpWork.NET.AssemblyInfo.cs
-C:\Users\Blake\source\repos\MMS.Api\UpWork.NET\obj\Debug\netcoreapp2.2\UpWork.NET.dll
-C:\Users\Blake\source\repos\MMS.Api\UpWork.NET\obj\Debug\netcoreapp2.2\UpWork.NET.pdb
 C:\Users\Blake\Desktop\Modsi\Internal Projects\MMS\UpWork.NET\bin\Debug\netcoreapp2.2\UpWork.NET.deps.json
 C:\Users\Blake\Desktop\Modsi\Internal Projects\MMS\UpWork.NET\bin\Debug\netcoreapp2.2\UpWork.NET.dll
 C:\Users\Blake\Desktop\Modsi\Internal Projects\MMS\UpWork.NET\bin\Debug\netcoreapp2.2\UpWork.NET.pdb
-C:\Users\Blake\Desktop\Modsi\Internal Projects\MMS\UpWork.NET\obj\Debug\netcoreapp2.2\UpWork.NET.csprojAssemblyReference.cache
 C:\Users\Blake\Desktop\Modsi\Internal Projects\MMS\UpWork.NET\obj\Debug\netcoreapp2.2\UpWork.NET.csproj.CoreCompileInputs.cache
 C:\Users\Blake\Desktop\Modsi\Internal Projects\MMS\UpWork.NET\obj\Debug\netcoreapp2.2\UpWork.NET.AssemblyInfoInputs.cache
 C:\Users\Blake\Desktop\Modsi\Internal Projects\MMS\UpWork.NET\obj\Debug\netcoreapp2.2\UpWork.NET.AssemblyInfo.cs
 C:\Users\Blake\Desktop\Modsi\Internal Projects\MMS\UpWork.NET\obj\Debug\netcoreapp2.2\UpWork.NET.dll
 C:\Users\Blake\Desktop\Modsi\Internal Projects\MMS\UpWork.NET\obj\Debug\netcoreapp2.2\UpWork.NET.pdb
+C:\Users\Blake\Desktop\Modsi\Internal Projects\MMS\UpWork.NET\obj\Debug\netcoreapp2.2\UpWork.NET.csprojAssemblyReference.cache
+C:\Users\Blake\Desktop\Modsi\Internal Projects\MMS\UpWork.NET\bin\Debug\netcoreapp2.2\Modsi.QueryAttribute.dll
+C:\Users\Blake\Desktop\Modsi\Internal Projects\MMS\UpWork.NET\bin\Debug\netcoreapp2.2\Modsi.QueryAttribute.pdb
+C:\Users\Blake\Desktop\Modsi\Internal Projects\MMS\UpWork.NET\obj\Debug\netcoreapp2.2\UpWork.NET.csproj.CopyComplete

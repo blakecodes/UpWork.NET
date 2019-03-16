@@ -1,9 +1,0 @@
-C:\Users\Blake\source\repos\MMS.Api\UpWork.NET\bin\Debug\netcoreapp2.1\UpWork.NET.deps.json
-C:\Users\Blake\source\repos\MMS.Api\UpWork.NET\bin\Debug\netcoreapp2.1\UpWork.NET.dll
-C:\Users\Blake\source\repos\MMS.Api\UpWork.NET\obj\Debug\netcoreapp2.1\UpWork.NET.csproj.CoreCompileInputs.cache
-C:\Users\Blake\source\repos\MMS.Api\UpWork.NET\obj\Debug\netcoreapp2.1\UpWork.NET.AssemblyInfoInputs.cache
-C:\Users\Blake\source\repos\MMS.Api\UpWork.NET\obj\Debug\netcoreapp2.1\UpWork.NET.AssemblyInfo.cs
-C:\Users\Blake\source\repos\MMS.Api\UpWork.NET\bin\Debug\netcoreapp2.1\UpWork.NET.pdb
-C:\Users\Blake\source\repos\MMS.Api\UpWork.NET\obj\Debug\netcoreapp2.1\UpWork.NET.csprojAssemblyReference.cache
-C:\Users\Blake\source\repos\MMS.Api\UpWork.NET\obj\Debug\netcoreapp2.1\UpWork.NET.dll
-C:\Users\Blake\source\repos\MMS.Api\UpWork.NET\obj\Debug\netcoreapp2.1\UpWork.NET.pdb

@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "96892e2aafd323b195fffae3fdabd4c221b15f47"
+    "signature": "a3944f1d9867064d487560abff0b2352631a392a"
   },
   "compilationOptions": {},
   "targets": {
@@ -9,6 +9,8 @@
       "UpWork.NET/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.WebUtilities": "2.1.1",
+          "Modsi.QueryAttribute": "1.0.0",
+          "Newtonsoft.Json": "12.0.1",
           "OAuth.DotNetCore": "2.1.0",
           "TinyOAuth1": "1.1.0"
         },
@@ -52,6 +54,14 @@
           }
         }
       },
+      "Newtonsoft.Json/12.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.1.22727"
+          }
+        }
+      },
       "OAuth.DotNetCore/2.1.0": {
         "runtime": {
           "lib/netstandard2.0/OAuth.DotNetCore.dll": {
@@ -85,6 +95,11 @@
             "fileVersion": "1.1.0.0"
           }
         }
+      },
+      "Modsi.QueryAttribute/1.0.0": {
+        "runtime": {
+          "Modsi.QueryAttribute.dll": {}
+        }
       }
     }
   },
@@ -114,6 +129,13 @@
       "sha512": "sha512-tNh1YCfZ943/d3WSE6cD57O05rhvi3lmKgwoi3zFg4wc/O/oec5FNHZmBCRau4GfzRC5zS/CBdOAkRwbvtZSaQ==",
       "path": "microsoft.net.http.headers/2.1.1",
       "hashPath": "microsoft.net.http.headers.2.1.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jmVyoEyk0In8r+AObYQyFKVFm7uSRzE0XSHSbEtBJcZDMV6DqJoyB4FLcHwprPVhAh826so0db3DIKXVnpGoPA==",
+      "path": "newtonsoft.json/12.0.1",
+      "hashPath": "newtonsoft.json.12.0.1.nupkg.sha512"
     },
     "OAuth.DotNetCore/2.1.0": {
       "type": "package",
@@ -156,6 +178,11 @@
       "sha512": "sha512-blBdrtYFBV1FdpCAygREemYpUFDoPx7O93mSN8ywOGAbOzZPg9gIq2YGbMjhyyjRysfe/1DCJmAxNJXiwP5VrA==",
       "path": "tinyoauth1/1.1.0",
       "hashPath": "tinyoauth1.1.1.0.nupkg.sha512"
+    },
+    "Modsi.QueryAttribute/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
